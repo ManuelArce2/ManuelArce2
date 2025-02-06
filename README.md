@@ -21,6 +21,7 @@
   <img align="center" alt="Angel-MariaDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
   <img align="center" alt="Angel-Docker" height="40" width="40" src="https://img.icons8.com/color/144/000000/docker"/>
   <img align="center" alt="Angel-Arduino" height="40" width="40" src="https://img.icons8.com/color/144/000000/arduino"/>
+  <img align="center" alt="Manuel-Raspberry" height="40" width="40" src="https://icons8.com/icon/mt7boL8hRFzV/raspberry-pi/>
   <img align="center" alt="Angel-Eclipse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
   <img align="center" alt="Angel-Laravel" height="40" width="40" src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000">
   <img align="center" alt="Angel-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
