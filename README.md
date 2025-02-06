@@ -25,7 +25,7 @@
   <img align="center" alt="Angel-Laravel" height="40" width="40" src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000">
   <img align="center" alt="Angel-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Angel-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Manuel-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Manuel-linux" height="40" width="40" src="https:/https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000">
   <img align="center" alt="Angel-Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Angel-Windows" height="40" width="40" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
   <img align="center" alt="Angel-python" height="40" width="40" src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000"/>
